@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\ILMS\ILMS\bin\Debug\ILMS.exe
+C:\Users\Asus\source\repos\ILMS\ILMS\bin\Debug\ILMS.exe.config
+C:\Users\Asus\source\repos\ILMS\ILMS\bin\Debug\ILMS.pdb
+C:\Users\Asus\source\repos\ILMS\ILMS\obj\Debug\ILMS.Presentation_Layer.AdminDashboard.resources
+C:\Users\Asus\source\repos\ILMS\ILMS\obj\Debug\ILMS.Presentation_Layer.LoginPage.resources
+C:\Users\Asus\source\repos\ILMS\ILMS\obj\Debug\ILMS.Presentation_Layer.ManageGenres.resources
+C:\Users\Asus\source\repos\ILMS\ILMS\obj\Debug\ILMS.Presentation_Layer.StudentUserReg.resources
+C:\Users\Asus\source\repos\ILMS\ILMS\obj\Debug\ILMS.Properties.Resources.resources
+C:\Users\Asus\source\repos\ILMS\ILMS\obj\Debug\ILMS.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ILMS\ILMS\obj\Debug\ILMS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ILMS\ILMS\obj\Debug\ILMS.exe
+C:\Users\Asus\source\repos\ILMS\ILMS\obj\Debug\ILMS.pdb
+C:\Users\Asus\source\repos\ILMS\ILMS\obj\Debug\ILMS.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ILMS\ILMS\obj\Debug\ILMS.Presentation_Layer.ManageBooks.resources
